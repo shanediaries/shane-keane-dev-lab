@@ -1,0 +1,4 @@
+Requirements for requirements.txt
+
+Package1==1.0.0
+Package2==2.0.0
