@@ -3,5 +3,6 @@
 export const auth = () => {
     console.log("Hello from src/services/auth.js");
     return true;
+# Modified at 2018-03-08
 # Modified at 2018-02-06
 };
