@@ -5,6 +5,7 @@ import sys
 
 def main():
     print("Hello from tests/test_main.py")
+# Modified at 2018-03-22
     return True
 
 if __name__ == "__main__":
