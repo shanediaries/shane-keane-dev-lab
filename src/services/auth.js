@@ -6,6 +6,7 @@ export const auth = () => {
     return true;
 # Modified at 2018-04-20
 # Modified at 2018-03-08
+# Modified at 2018-05-28
 # Modified at 2018-02-06
 # Modified at 2018-05-24
 # Modified at 2018-03-25

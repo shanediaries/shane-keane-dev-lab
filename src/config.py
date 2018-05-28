@@ -2,6 +2,7 @@
 # src/config.py
 # Modified at 2018-04-20
 import os
+# Modified at 2018-05-28
 import sys
 
 def main():
