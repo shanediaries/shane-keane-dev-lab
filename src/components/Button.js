@@ -4,6 +4,7 @@
 # Modified at 2018-02-06
 # Modified at 2018-02-12
 export const Button = () => {
+# Modified at 2018-06-06
 # Modified at 2018-02-20
 # Modified at 2018-04-27
     console.log("Hello from src/components/Button.js");
