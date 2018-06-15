@@ -16,6 +16,7 @@ This is a documentation file.
 ## Features
 # Modified at 2018-05-07
 # Modified at 2018-02-06
+# Modified at 2018-06-15
 # Modified at 2018-01-11
 # Modified at 2018-02-20
 # Modified at 2018-06-13
