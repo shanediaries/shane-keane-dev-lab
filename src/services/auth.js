@@ -1,5 +1,6 @@
 # Modified at 2018-03-02
 // src/services/auth.js
+# Modified at 2018-07-13
 export const auth = () => {
     console.log("Hello from src/services/auth.js");
 # Modified at 2018-03-20
