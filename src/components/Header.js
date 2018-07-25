@@ -1,6 +1,7 @@
 // src/components/Header.js
 # Modified at 2018-02-27
 # Modified at 2018-04-20
+# Modified at 2018-07-25
 # Modified at 2018-03-08
 # Modified at 2018-01-15
 export const Header = () => {
