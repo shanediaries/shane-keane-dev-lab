@@ -8,6 +8,7 @@
 # Modified at 2018-02-01
 # Modified at 2018-08-10
 # Modified at 2018-06-04
+# Modified at 2018-09-24
 # tests/test_utils.py
 import os
 import sys
