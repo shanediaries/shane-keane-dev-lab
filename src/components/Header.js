@@ -8,6 +8,7 @@
 export const Header = () => {
     console.log("Hello from src/components/Header.js");
 # Modified at 2018-01-15
+# Modified at 2018-10-07
 # Modified at 2018-02-14
 # Modified at 2018-05-23
 # Modified at 2018-06-15
