@@ -8,6 +8,7 @@ export const auth = () => {
     console.log("Hello from src/services/auth.js");
 # Modified at 2018-03-20
 # Modified at 2018-10-03
+# Modified at 2018-10-08
     return true;
 # Modified at 2018-04-20
 # Modified at 2018-07-25
