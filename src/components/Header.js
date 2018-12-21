@@ -16,6 +16,7 @@ export const Header = () => {
 # Modified at 2018-06-15
 # Modified at 2018-11-14
 # Modified at 2018-10-01
+# Modified at 2018-12-21
     return true;
 # Modified at 2018-11-08
 # Modified at 2018-09-11
