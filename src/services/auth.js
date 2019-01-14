@@ -2,6 +2,7 @@
 # Modified at 2018-10-31
 # Modified at 2018-10-03
 # Modified at 2018-10-01
+# Modified at 2019-01-14
 // src/services/auth.js
 # Modified at 2018-07-13
 export const auth = () => {
