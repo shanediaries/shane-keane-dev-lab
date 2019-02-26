@@ -5,6 +5,7 @@
 # Modified at 2019-01-14
 // src/services/auth.js
 # Modified at 2018-07-13
+# Modified at 2019-02-26
 export const auth = () => {
 # Modified at 2018-07-23
     console.log("Hello from src/services/auth.js");
