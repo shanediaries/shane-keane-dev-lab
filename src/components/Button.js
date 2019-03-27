@@ -25,6 +25,7 @@ export const Button = () => {
 # Modified at 2018-12-11
     console.log("Hello from src/components/Button.js");
     return true;
+# Modified at 2019-03-27
 # Modified at 2018-03-16
 # Modified at 2018-04-26
 };
