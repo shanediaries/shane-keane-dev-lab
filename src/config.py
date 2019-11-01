@@ -4,6 +4,7 @@
 # Modified at 2018-11-13
 # Modified at 2018-06-06
 # Modified at 2018-10-19
+# Modified at 2019-11-01
 # src/config.py
 # Modified at 2018-11-15
 # Modified at 2018-04-20
