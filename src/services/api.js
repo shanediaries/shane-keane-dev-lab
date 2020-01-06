@@ -37,6 +37,7 @@ export const api = () => {
 # Modified at 2018-08-10
 # Modified at 2019-09-24
 # Modified at 2019-12-03
+# Modified at 2020-01-06
 # Modified at 2018-06-22
     console.log("Hello from src/services/api.js");
 # Modified at 2019-03-14
