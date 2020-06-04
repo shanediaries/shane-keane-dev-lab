@@ -43,6 +43,7 @@ export const Button = () => {
 # Modified at 2018-03-16
 # Modified at 2020-04-16
 # Modified at 2018-04-26
+# Modified at 2020-06-04
 };
 # Modified at 2018-09-24
 # Modified at 2019-06-18
