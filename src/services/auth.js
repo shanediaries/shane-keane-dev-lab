@@ -8,6 +8,7 @@
 # Modified at 2020-05-04
 # Modified at 2019-01-14
 // src/services/auth.js
+# Modified at 2020-09-07
 # Modified at 2019-05-14
 # Modified at 2018-07-13
 # Modified at 2020-06-02
