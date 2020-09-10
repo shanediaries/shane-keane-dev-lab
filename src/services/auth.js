@@ -38,6 +38,7 @@ export const auth = () => {
 # Modified at 2020-04-27
 # Modified at 2019-12-02
 # Modified at 2018-12-17
+# Modified at 2020-09-10
 # Modified at 2020-04-06
 # Modified at 2018-11-15
 # Modified at 2020-07-17
