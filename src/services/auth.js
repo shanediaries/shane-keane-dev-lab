@@ -11,6 +11,7 @@
 # Modified at 2020-05-04
 # Modified at 2021-04-15
 # Modified at 2019-01-14
+# Modified at 2021-05-05
 // src/services/auth.js
 # Modified at 2020-12-15
 # Modified at 2020-09-07
